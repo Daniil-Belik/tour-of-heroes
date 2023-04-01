@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/angular-firebase-deploy",
+    "public": "dist/angular-tour-of-heroes",
     "ignore": [
       "firebase.json",
       "**/.*",
